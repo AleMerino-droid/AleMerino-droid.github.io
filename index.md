@@ -1,43 +1,52 @@
-# 👨‍💻 Alejandro Merino
+# 👨‍💻 Hola, soy Alejandro Merino
 
-Desarrollador Android enfocado en crear soluciones con propósito social, compatibilidad extendida y arquitectura moderna. Me apasiona construir aplicaciones que realmente resuelven problemas concretos, especialmente en contextos vulnerables.
-
----
-
-## 📱 Proyecto destacado
-
-### DondeEstoySMS _(privado)_
-Aplicación Android que responde automáticamente a mensajes SMS con ubicación en tiempo real.  
-Pensada para brindar asistencia en situaciones vulnerables.  
-Tecnologías: Kotlin · Hilt · WorkManager · Room · Jetpack Compose  
-Compatibilidad: Android 7.0
-
-🔎 [Artículo técnico sobre su proceso de depuración](https://dev.to/alemerino/...)
+Soy desarrollador Android con enfoque en impacto social y compatibilidad extendida. Me especializo en crear aplicaciones que combinan arquitectura moderna, propósito real y accesibilidad para todos.
 
 ---
 
-## 🧰 Tecnologías que uso
+## 🛠️ Proyecto destacado
 
-- Kotlin · Jetpack Compose · Coroutines
-- Hilt · WorkManager · Room · DataStore
-- Retrofit · Firebase · Gradle · Git
+### 📱 DondeEstoySMS _(privado)_
 
----
+Aplicación Android que responde automáticamente a mensajes SMS con la ubicación actual del dispositivo.  
+Pensada para brindar asistencia en situaciones vulnerables o de emergencia.  
+**Tecnologías:** Kotlin · Hilt · WorkManager · Room · Jetpack Compose  
+**Compatibilidad:** Android 7.0+
 
-## 🧠 Filosofía como desarrollador
-
-- 🧠 Diagnóstico primero: cada bug es una oportunidad para aprender.
-- 🧼 Código que se deja mantener: porque el futuro también importa.
-- 🤝 Tecnología empática: soluciones pensadas para personas reales.
+🔍 [Ver artículo técnico sobre su proceso de depuración](https://dev.to/alemerino/...)
 
 ---
 
-## 🌐 Presencia técnica
+## 💻 Tecnologías y herramientas que domino
+
+- ☕ Kotlin · Jetpack Compose · Coroutines
+- 🧩 Hilt · Room · WorkManager · DataStore
+- 🚀 Retrofit · Firebase · Gradle · Git
+- 🛠️ GitHub Actions · Markdown · XML · JSON
+
+---
+
+## 🧠 Filosofía de desarrollo
+
+- 🧠 **Diagnóstico primero:** cada bug tiene algo que enseñar.
+- 🧼 **Código mantenible:** el futuro también es parte del desarrollo.
+- 🤝 **Tecnología empática:** soluciones pensadas para las personas.
+
+---
+
+## 🌐 Presencia técnica y comunidad
 
 - 🏠 Sitio web: [AleMerino-droid.github.io](https://AleMerino-droid.github.io)
 - ✍️ Artículos: [Dev.to](https://dev.to/alemerino)
-
+- 💼 LinkedIn: _(en preparación)_
+- 📬 Contacto: _(opcional, podés agregarlo más adelante)_
 
 ---
 
-📦 Próximamente: Repos públicos con librerías, componentes y ejemplos prácticos.
+## 📦 Próximamente
+
+Repos públicos con componentes reutilizables, ejemplos de arquitectura limpia y herramientas para entornos legacy. Estoy construyendo con paciencia y propósito.
+
+---
+
+> Gracias por visitar mi perfil técnico. Estoy abierto a colaboraciones en proyectos que aporten valor real. 🚀
