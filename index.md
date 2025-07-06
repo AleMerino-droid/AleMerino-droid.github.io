@@ -13,7 +13,7 @@ Pensada para brindar asistencia en situaciones vulnerables o de emergencia.
 **Tecnologías:** Kotlin · Hilt · WorkManager · Room · Jetpack Compose  
 **Compatibilidad:** Android 7.0+
 
-🔍 [Ver artículo técnico sobre su proceso de depuración]([https://dev.to/alemerino/...](https://dev.to/alemerinodroid/resolviendo-el-imposible-nosuchmethodexception-con-hilt-y-workmanager-8cp)
+🔍 [Ver artículo técnico sobre su proceso de depuración]([https://dev.to/alemerinodroid](https://dev.to/alemerinodroid/resolviendo-el-imposible-nosuchmethodexception-con-hilt-y-workmanager-8cp)
 
 ---
 
