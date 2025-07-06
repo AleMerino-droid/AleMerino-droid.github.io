@@ -38,8 +38,6 @@ Pensada para brindar asistencia en situaciones vulnerables o de emergencia.
 
 - 🏠 Sitio web: [AleMerino-droid.github.io](https://AleMerino-droid.github.io)
 - ✍️ Artículos: [Dev.to](https://dev.to/alemerino)
-- 💼 LinkedIn: _(en preparación)_
-- 📬 Contacto: _(opcional, podés agregarlo más adelante)_
 
 ---
 
